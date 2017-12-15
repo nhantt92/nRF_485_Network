@@ -1,4 +1,4 @@
-update=7/3/2017 11:11:29 PM
+update=Friday, December 15, 2017 'PMt' 10:54:55 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../nhantt-kicad-lib/nhantt-kicad-lib;../../kicad-library/library
@@ -61,3 +59,5 @@ LibName29=valves
 LibName30=E:/Project/2017/hw/kicad/nhantt-kicad-lib/nhantt-kicad-lib/nhantt-kicad-lib
 LibName31=E:/Project/2017/hw/kicad/kicad-library/library/relays
 LibName32=switches
+[general]
+version=1
