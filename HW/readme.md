@@ -2,6 +2,6 @@
 
 ## Relay Node
 
-![touch-pad](/assets/Relay-Node.png)
+![touch-pad](assets/Relay-Node.png)
 
 # Sensor Node
