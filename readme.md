@@ -13,7 +13,7 @@
 ### Master
 
 
-![Master](/HW/assets/Master.png)
+![Master](/HW/assets/master-node.png)
 
 ## FW
 
