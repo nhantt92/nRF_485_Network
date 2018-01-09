@@ -4,4 +4,10 @@
 
 ![touch-pad](assets/Relay-Node.png)
 
-# Sensor Node
+## Sensor Node
+
+![touch-pad](assets/Sensor-Node.png)
+
+## Master Node
+
+![touch-pad](assets/master-node.png)
